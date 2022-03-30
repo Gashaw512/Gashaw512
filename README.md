@@ -1,16 +1,16 @@
-### Hi there 👋
-### ሰላም , I'm Hulu  ✌🏽 
+### Hi there 👋 
+###  I'm Gashaw ✌🏽 
 
 
 __Software Engineer__
- <br /> [ Backend | Frontend | MEVN  Stack  ]
+ <br /> [ Full Stack Developer  ]
 
 ---
 
 * 🌱 Always learning new things. 🐶
 * 🎯 I Plan to contribute more to open-source this year.
 * ⚡ Fun fact : I love listening to Music 🎵
-*  Wanna 💬? You can find me on ✉️ [Hulunlante Worku](mailto:hulunlante.w@gmail.com?subject=[GitHub]).
+*  Wanna 💬? You can find me on ✉️ [Hulunlante Worku](mailto:kidanugashaw@gmail.com?subject=[GitHub]).
 
 ---
 <h3 align="left">Connect with me:</h3>
