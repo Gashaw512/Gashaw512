@@ -44,5 +44,5 @@ __Software Engineer__
 </p>
   <br/>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuluWZ&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gashaw512&show_icons=true&theme=tokyonight" />
 </a> 
