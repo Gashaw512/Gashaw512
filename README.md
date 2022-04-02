@@ -36,25 +36,30 @@
 
 <code>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img width="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img width="40"  height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   </a>
   </code>
   
  <code>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img width="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img width="40"  height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   </a>
  </code>
   <code>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img width="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img width="40"  height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
   </a>
   </code>
-   <code> 
+  
+  
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  
+  <code> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  </a> 
-      </code>
+   </code>
 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
