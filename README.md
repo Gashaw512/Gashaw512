@@ -36,18 +36,18 @@
 
 <code>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img width="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
   </code>
   
  <code>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img width="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   </a>
  </code>
   <code>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img width="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </a>
   </code>
    <code> 
