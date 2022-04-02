@@ -37,7 +37,7 @@ __Software Engineer__
  </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <i class="devicon-express-original-wordmark"></i>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original-wordmark.svg" alt="reactjs" width="40" height="40"/> 
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F2300px-React-icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&tbnid=4fP0joQQKRm5dM&vet=12ahUKEwigs8y_zPX2AhULIcUKHfwHDsQQMygAegUIARC8AQ..i&docid=nfz2qKo0MFLwMM&w=2300&h=2000&q=React%20js%20icon&ved=2ahUKEwigs8y_zPX2AhULIcUKHfwHDsQQMygAegUIARC8AQ" alt="reactjs" width="40" height="40"/> 
  </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
