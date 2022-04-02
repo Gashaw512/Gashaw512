@@ -10,6 +10,8 @@ __Software Engineer__
 * 🌱 Always learning new things. 🐶
 * 🎯 I Plan to contribute more to open-source this year.
 * ⚡ Fun fact : I love listening to Music 🎵
+* ![Pastel Green Black Green Colored Experimental Design - Illustration Portfolio Website](https://user-images.githubusercontent.com/59097663/161389378-0b48b526-2153-4423-ad8b-15c80dbe3d9a.png)
+
 *  Wanna 💬? You can find me on ✉️ [Gashaw Kidane](mailto:kidanugashaw@gmail.com?subject=[GitHub]).
 
 ---
