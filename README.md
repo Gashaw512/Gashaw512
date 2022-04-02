@@ -33,6 +33,15 @@
   <i class="devicon-express-original-wordmark"></i>
   <img src="" alt="reactjs" width="40" height="40"/> 
  </a>
+
+<code>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  </a>
+  </code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  </a> 
