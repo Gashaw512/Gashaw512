@@ -63,4 +63,4 @@ __Software Engineer__
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gashaw512&show_icons=true&theme=tokyonight" />
 </a> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gashaw512"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gashaw512&layout=compact"/>
