@@ -35,14 +35,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img width="50"  height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img width="50"  height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  </a>
-
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img width="50"  height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-  </a>
  
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -63,12 +55,8 @@
   <a href="https://angular.io/guide/cheatsheet" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
+ 
+ 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a> 
@@ -84,9 +72,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
+
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -96,14 +82,31 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https:#" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="xd" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> 
-  </a>
+
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkin" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   </div>
+  
+ <div>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img width="50"  height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img width="50"  height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> 
+  </a>
+</div>
 </p>
   <br/>
 <a href="">
