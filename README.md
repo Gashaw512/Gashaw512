@@ -1,16 +1,7 @@
-### Hi there 👋 
-###  I'm Gashaw ✌🏽 
 
+![Green Illustrative Accounting Service Website](https://user-images.githubusercontent.com/59097663/161393298-8f495c5d-bc77-43e2-ae6d-c5b700eac83d.png)
 
-__Software Engineer__
- <br /> [ Full Stack Developer  ]
-
----
-
-* 🌱 Always learning new things. 🐶
-* 🎯 I Plan to contribute more to open-source this year.
-* ⚡ Fun fact : I love listening to Music 🎵
-* ![Pastel Green Black Green Colored Experimental Design - Illustration Portfolio Website](https://user-images.githubusercontent.com/59097663/161389378-0b48b526-2153-4423-ad8b-15c80dbe3d9a.png)
+⚡ Fun fact : I love listening to Music 🎵
 
 *  Wanna 💬? You can find me on ✉️ [Gashaw Kidane](mailto:kidanugashaw@gmail.com?subject=[GitHub]).
 
