@@ -11,7 +11,7 @@
 <p align="left">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-<a href="https://t.me/Hulu_WZ" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Gashaw Kidane" height="30" width="30" /></a>       <a href="https://www.linkedin.com/in/gashaw-kidanu-b52238233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gashaw Kidane" height="30" width="40" /></a>
+<a href="https://t.me/gash512" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Gashaw Kidane" height="30" width="30" /></a>       <a href="https://www.linkedin.com/in/gashaw-kidanu-b52238233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gashaw Kidane" height="30" width="40" /></a>
   
 </p>
 
