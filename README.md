@@ -61,7 +61,7 @@ I'm a dedicated and security-focused **Software Engineer** with a robust backgro
 
 ### 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/gashaw-kidanu-b52238233/)
-- 🌐 [Portfolio Website](https://your-website.com) *(Remember to replace `https://your-website.com` with your actual portfolio URL!)*
+- 🌐 [Portfolio Website][(https://your-website.com](https://gashawkidane.vercel.app/))
 - 📧 Email: [kidanugashaw@gmail.com](mailto:kidanugashaw@gmail.com)
 - 💬 Telegram: [@Look_at_Me_then](https://t.me/Look_at_Me_then)
 
