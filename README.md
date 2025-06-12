@@ -1,10 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/59097663/161393868-9d0d8cf2-9195-4c10-8bcc-56a43eaf1394.png)
 
-
-
-<!-- Banner (optional, add your own image link or comment it out) -->
-<!-- ![Banner](https://your-image-url.com/banner.png) -->
-
 # 👋 Hello, I'm Gashaw Kidanu
 
 **Software Engineer** | **Cybersecurity Engineer**  
