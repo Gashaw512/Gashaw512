@@ -1,6 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/59097663/161393868-9d0d8cf2-9195-4c10-8bcc-56a43eaf1394.png)
-
-
+<!--  ![Banner](https://user-images.githubusercontent.com/59097663/161393868-9d0d8cf2-9195-4c10-8bcc-56a43eaf1394.png) -->
 
 ![Banner](https://github.com/Gashaw512/asset/blob/main/gitbanner.png)
 
