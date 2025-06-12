@@ -36,7 +36,7 @@ I'm a dedicated and security-focused **Software Engineer** with a robust backgro
 #### 🔒 Security Tools
 
 <p>
-  <img src="https://portswigger.net/burp/communitydownload/images/comm-dl-hero.png" alt="Burp Suite" width="35" title="Burp Suite"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png" alt="Burp Suite" width="35" title="Burp Suite"/>
   <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="35" title="Metasploit"/>
   <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP (for MobSF)" width="35" title="MobSF (OWASP Mobile Security Framework)"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Java_logo.svg" alt="Jadx (Java)" width="35" title="Jadx (Java Decompiler)"/>
