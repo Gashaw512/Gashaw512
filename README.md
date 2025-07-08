@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/Gashaw512/asset/blob/main/gitbanner.png)
+<!-- ![Banner](https://github.com/Gashaw512/asset/blob/main/gitbanner.png)  -->
 
 # 👋 Hi, I'm Gashaw Kidanu
 
