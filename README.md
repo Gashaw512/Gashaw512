@@ -5,7 +5,7 @@
 
 🎓 **Software & Cybersecurity Engineer**  
 🛡️ Passionate about building secure, scalable, and impactful tech solutions.  
-💼 Focused on Penetration Testing | Secure App Development | Threat Analysis
+💼 Focused on Penetration Testing | Secure App Development | Threat Analysis 
 
 ---
 
