@@ -72,7 +72,7 @@ I'm a dedicated **Software Engineer** with a strong foundation in **Cybersecurit
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gashaw-kidanu-b52238233/)  
 - 🌐 [Portfolio Website](https://gashawkidane.vercel.app/)  
 - ✉️ Email: [kidanugashaw@gmail.com](mailto:kidanugashaw@gmail.com)  
-- 💬 Telegram: [@Look_at_Me_then](https://t.me/TechToEmpire)  
+- 💬 Telegram: [@Look_at_Me_then](https://t.me/@TechToEmpire)  
 
 ---
 
